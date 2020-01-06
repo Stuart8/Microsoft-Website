@@ -820,8 +820,8 @@ section{
 	animation-delay: 0s;
 	-webkit-animation: pulsate1 2s;
 	animation: pulsate1 2s;
-	-webkit-animation-direction: forwards;
-	animation-direction: forwards;
+	-webkit-animation-direction: normal;
+	animation-direction: normal;
 	-webkit-animation-iteration-count: infinite;
 	animation-iteration-count: infinite;
 	-webkit-animation-timing-function: steps;
